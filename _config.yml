@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Pedro de Souza Ferreira"
+name                     : &name "Pedro Ferreira"
 description              : &description "PhD student in Public Policy (Econnomics Track)"
 url                      : https://pedrodesouzaferreira.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "pedrodesouzaferreira/pedrodesouzaferreira.github.io"
 author:
   # Biographic information
   avatar           : "pinacoteca-profile.jpeg"
-  name             : "Pedro de Souza Ferreira"
+  name             : "Pedro Ferreira"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Public Policy (Econnomics Track)"
   location         : "Cambridge, Massachusetts "
