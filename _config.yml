@@ -22,7 +22,7 @@ repository               : "pedrodesouzaferreira/pedrodesouzaferreira.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/pinacoteca-profile.jpeg"
+  avatar           : "pinacoteca-profile.jpeg"
   name             : "Pedro de Souza Ferreira"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in Public Policy (Econnomics Track)"
