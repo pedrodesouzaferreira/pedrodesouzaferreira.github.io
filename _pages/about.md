@@ -9,7 +9,6 @@ redirect_from:
 
 <figure>
   <img src="/images/IMG_8157.jpeg" alt="Sea view from Maputo">
-  <figcaption>Your caption here</figcaption>
 </figure>
 
 Hi,
