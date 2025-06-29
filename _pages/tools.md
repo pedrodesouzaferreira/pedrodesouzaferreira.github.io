@@ -11,4 +11,4 @@ redirect_from:
 
 Cabo Delgado Attack Evolution (ACLED)
 ======
-[Islamic Groups Animation](https://www.dropbox.com/scl/fi/w9xnhrbegcjleipxzraeu/islamic_groups_animation.html?rlkey=f40zvdhgd7pv6iw4vg5ptrhfo&e=1&st=e7o9ermd&dl=0) (Give it a minute or two to load! It's a big file)
+[Animation](https://www.dropbox.com/scl/fi/w9xnhrbegcjleipxzraeu/islamic_groups_animation.html?rlkey=f40zvdhgd7pv6iw4vg5ptrhfo&e=1&st=e7o9ermd&dl=0) (Give it a minute or two to load! It's a big file)
