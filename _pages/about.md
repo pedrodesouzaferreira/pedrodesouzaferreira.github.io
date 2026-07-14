@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <figure>
-  <img src="/images/IMG_8157.jpeg" alt="Sea view from Maputo" style="max-width: 500px; width: 100%;">
+  <img src="/images/IMG_8157.jpeg" alt="Sea view from Maputo" style="width: 400px; max-width: 100%;">
   <figcaption>Sea view from Jardim dos Namorados, Maputo (2025).</figcaption>
 </figure>
 
