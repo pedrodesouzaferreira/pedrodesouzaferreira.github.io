@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Pedro Ferreira"
-description              : &description "PhD student in Public Policy (Econnomics Track)"
+description              : &description "PhD student in Public Policy (Economics Track)"
 url                      : https://pedrodesouzaferreira.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pedrodesouzaferreira/pedrodesouzaferreira.github.io"
@@ -22,10 +22,10 @@ repository               : "pedrodesouzaferreira/pedrodesouzaferreira.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pinacoteca-profile.jpeg"
+  avatar           : "IMG_7442.jpeg"
   name             : "Pedro Ferreira"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student in Public Policy (Econnomics Track)"
+  bio              : "PhD student in Public Policy (Economics Track)"
   location         : "Cambridge, Massachusetts "
   employer         : "Harvard University"
   uri              : # URL

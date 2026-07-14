@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+<figure>
+  <img src="/images/IMG_5656.jpeg" alt="Lagoa Rodrigo de Freitas">
+  <figcaption>Lagoa Rodrigo de Freitas, Rio de Janeiro (2026).</figcaption>
+</figure>
+
 Education
 ======
 * Ph.D Public Policy (Economics track), Harvard University, 2030 (expected)
