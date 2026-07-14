@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 <figure>
-  <img src="/images/IMG_5656.jpeg" alt="Lagoa Rodrigo de Freitas" style="width: 700px; max-width: 100%;">
-  <figcaption>Lagoa Rodrigo de Freitas, Rio de Janeiro (2026).</figcaption>
+  <img src="/images/IMG_5656.jpeg" alt="Lagoa Rodrigo de Freitas" style="width: 1000px; max-width: 100%;">
+  <figcaption style="width: 100%;">Lagoa Rodrigo de Freitas, Rio de Janeiro (2026).</figcaption>
 </figure>
 
 Education
